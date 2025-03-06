@@ -61,4 +61,4 @@ https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/M
 https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/Media/YouTube.yaml
 https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/Media/Youku.yaml
 https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/Media/encoreTVB.yaml
-https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/Media/myTV SUPER.yaml
+https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/Media/myTV%20SUPER.yaml
